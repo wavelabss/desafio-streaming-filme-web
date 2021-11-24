@@ -1,4 +1,4 @@
-# Dasafio Streaming Filme Web 
+# Desafio Streaming Filme Web 
 
 Netflix, Amazon Prime, Disney Plus... Todos estes são aplicativos de streaming para que o público possa assistir filmes e séries pagando um valor mensal à plataforma.
 O interessante é que podemos acompanhar sinopses, episódios, trailers e muito mais a partir dela.
